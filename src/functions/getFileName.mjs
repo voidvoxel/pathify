@@ -1,4 +1,6 @@
 import { default as pathlib } from "path";
+
+
 import getAbsolutePath from "./getAbsolutePath.mjs";
 import isDirectory from "./isDirectorySync.mjs";
 
@@ -7,7 +9,7 @@ import isDirectory from "./isDirectorySync.mjs";
  * Get the file name of a path.
  *
  * @public
- * @since v0.1.1
+ * @since v0.1.4
  * @version 1.0.0-alpha
  *
  * @param {string} path
