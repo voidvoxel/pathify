@@ -1,6 +1,3 @@
-import { default as pathlib } from "path";
-
-
 import { getFileExtension } from "../../src/index.mjs";
 
 
