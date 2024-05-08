@@ -4,16 +4,16 @@ import isDirectory from "./isDirectorySync.mjs";
 
 
 /**
- * Get the file extension of a path.
+ * Get the file name of a path.
  *
  * @public
  * @since v0.1.1
  * @version 1.0.0-alpha
  *
  * @param {string} path
- * The path to get the file extension of.
+ * The path to get the file name of.
  * @returns
- * The file extension of the path.
+ * The file name of the path.
  */
 export default function getFileName (path) {
     path ??= '';
