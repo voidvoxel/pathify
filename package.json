@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "description": "Path manipulation and resolution library",
   "main": "src/index.mjs",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [
     "path",
@@ -25,5 +26,8 @@
   "license": "MPL-2.0",
   "dependencies": {
     "pathabs": "github:voidvoxel/pathabs#v1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
