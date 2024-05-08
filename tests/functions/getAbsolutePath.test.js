@@ -5,7 +5,7 @@ import { getAbsolutePath } from "../../src/index.mjs";
 
 
 test(
-    "getAbsolutePath()",
+    `getAbsolutePath()`,
     () => {
         expect(
             getAbsolutePath()
