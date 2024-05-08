@@ -1,0 +1,26 @@
+{
+  "name": "pathify",
+  "version": "0.0.0",
+  "description": "Path manipulation and resolution library",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "path",
+    "manipulation",
+    "manipulate",
+    "join",
+    "concat",
+    "concatenate",
+    "replace",
+    "extension",
+    "ext",
+    "file",
+    "directory",
+    "name",
+    "filename"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0"
+}
