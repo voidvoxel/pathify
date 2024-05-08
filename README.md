@@ -1,2 +1,3 @@
-# pathify
- Path manipulation and resolution library
+# `pathify`
+
+Path manipulation and resolution library
