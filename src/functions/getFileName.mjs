@@ -1,6 +1,6 @@
 import { default as pathlib } from "path";
 import getAbsolutePath from "./getAbsolutePath.mjs";
-import isDirectory from "./isDirectory.mjs";
+import isDirectory from "./isDirectorySync.mjs";
 
 
 /**

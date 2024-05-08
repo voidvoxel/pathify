@@ -5,6 +5,8 @@ import getAbsolutePath from "./getAbsolutePath.mjs";
 export default function isDirectorySync (
     path
 ) {
+    path ??= '';
+
     path = getAbsolutePath(path);
 
     if (!existsSync(path)) {
