@@ -22,5 +22,8 @@
     "filename"
   ],
   "author": "Ashlynne Juniper",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
+  "dependencies": {
+    "pathabs": "github:voidvoxel/pathabs#v1.0.0"
+  }
 }
