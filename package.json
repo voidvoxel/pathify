@@ -1,6 +1,6 @@
 {
   "name": "pathify",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Path manipulation and resolution library",
   "main": "src/index.mjs",
   "type": "module",
