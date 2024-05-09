@@ -17,7 +17,9 @@ import isDirectory from "./isDirectorySync.mjs";
  * @returns
  * The file name of the path.
  */
-export default function getFileName (path) {
+export default function getFileName (
+    path
+) {
     path ??= '';
 
     if (typeof path !== 'string') {
