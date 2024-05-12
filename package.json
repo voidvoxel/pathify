@@ -35,5 +35,8 @@
     "jest": "^29.7.0",
     "typescript": "^5.4.5"
   },
-  "types": "types/index.d.mts"
+  "types": "types/index.d.mts",
+  "engines": {
+    "node": "^20.0.0"
+  }
 }
