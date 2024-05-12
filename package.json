@@ -37,6 +37,6 @@
   },
   "types": "types/index.d.mts",
   "engines": {
-    "node": "^20.0.0"
+    "node": ">=20.13.1"
   }
 }
