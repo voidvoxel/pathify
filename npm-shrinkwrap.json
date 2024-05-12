@@ -1,12 +1,12 @@
 {
   "name": "pathify",
-  "version": "0.1.6",
+  "version": "0.2.0-alpha",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "pathify",
-      "version": "0.1.6",
+      "version": "0.2.0-alpha",
       "license": "MPL-2.0",
       "dependencies": {
         "pathabs": "github:voidvoxel/pathabs#v1.0.0",
